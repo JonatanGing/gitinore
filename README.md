@@ -1,1 +1,1 @@
-# gitinore
+# estrutura de decisçao
